@@ -1,3 +1,19 @@
-table.1{
+table.tabla1{
+border: red 1px solid;
+}
 
+table.tabla2{
+    border: red 1px solid;
+}
+
+td.td2{
+    border: blue 2px solid;
+}
+
+table.tabla3{
+    border: green 1px solid;
+}
+
+td.td3{
+    border: green 1px solid;
 }
